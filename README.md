@@ -6,8 +6,8 @@ Regression Algorithms in the project:
 2. Decision Tree
 3. K Nearest Neighbor
 4. Naive Bayes Algoritmaları
-  4.1. Gaussian Naive Bayes 
-  4.2. Multinomial Naive Bayes 
-  4.3. Complement Naive Bayes 
-  4.4. Bernoulli Naive Bayes
-5. Logistic Regression (my own algorithm)
+5. Gaussian Naive Bayes 
+6. Multinomial Naive Bayes 
+7. Complement Naive Bayes 
+8. Bernoulli Naive Bayes
+9. Logistic Regression (my own algorithm)
